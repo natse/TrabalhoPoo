@@ -1,0 +1,12 @@
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.exe.config
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.exe
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\bin\Debug\TrabalhoPoo.pdb
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.csprojAssemblyReference.cache
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.Formulario.FormPrincipal.resources
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.Properties.Resources.resources
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.csproj.GenerateResource.cache
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.exe
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.pdb
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.Formulario.FormAlunoRua.resources
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.Formulario.MeniStripPrincipal.resources
+D:\Falcudade\POO\TrabalhoPoo\TrabalhoPoo\obj\Debug\TrabalhoPoo.Formulario.FormFuncionario.resources
